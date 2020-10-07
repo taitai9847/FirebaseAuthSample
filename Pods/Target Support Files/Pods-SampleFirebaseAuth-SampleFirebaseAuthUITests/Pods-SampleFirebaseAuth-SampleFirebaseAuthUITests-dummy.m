@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SampleFirebaseAuth_SampleFirebaseAuthUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SampleFirebaseAuth_SampleFirebaseAuthUITests
+@end

@@ -1,0 +1,6 @@
+framework module Pods_SampleFirebaseAuth_SampleFirebaseAuthUITests {
+  umbrella header "Pods-SampleFirebaseAuth-SampleFirebaseAuthUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
